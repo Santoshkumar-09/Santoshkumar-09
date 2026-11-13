@@ -90,15 +90,9 @@ A web development project focused on campus-related functionality.
 
 ## 📫 Connect With Me
 
-  ## 📫 Connect With Me
-
 - 💼 LinkedIn: [Santosh Kumar](https://www.linkedin.com/in/santoshkumar-6665b4344/)
 - 💻 GitHub: [Santoshkumar-09](https://github.com/Santoshkumar-09)
-- 🧩 LeetCode: [My LeetCode Profile](https://leetcode.com/)
-- GitHub: [Santoshkumar-09](https://github.com/Santoshkumar-09)
-- LeetCode: [My LeetCode Profile](https://leetcode.com/)
-
----
+- 🧩 LeetCode: [thiz_iz_santu](https://leetcode.com/u/thiz_iz_santu/)
 
 ### ⭐ Thanks for visiting my profile!
 
